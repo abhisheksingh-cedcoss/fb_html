@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(239,241,246);
+}
+#navbar{
+    background-color: rgb(70 100 165);
+    height: 80px;
+}
+li {
+    list-style-type: none;
+    float: left;
+    text-align: left;
+    color: white;
+}
+
+form {
+    margin-top: -50px;
+    padding-right: 60px;
+    float: right;
+}
+
+form li {
+    font-size: 13px;
+    margin-left: 15px;
+}
+form li a {
+    color: #A9BCF5;
+    text-decoration: none;
+}
+form input[type="text"] {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 150px;
+    border: 1px solid #08298A;
+    height: 25px;
+    padding-left: 3px;
+}
+form input[type="password"] {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 150px;
+    border: 1px solid #08298A;
+    height: 25px;
+    padding-left: 3px;
+}
+
+form input[type="submit"] {
+    height: 25px;
+    margin-top: 20px;
+    background-color: #084B8A;
+    color: white;
+    border: 1px solid #08298A;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#main_section{
+    float: left;
+    background-color: rgb(239,241,246);
+    width: 50%;
+    height: 100%;
+    padding-left: 30px;
+    padding-top: 50px;
+
+    
+}
+
+#aside_content{
+    background-color: rgb(239,241,246);
+    float: right;
+    width: 37%;
+    height: 100%;
+    padding-left: 10px;
+}
+
+#first_heading{
+    padding-top: 20px;
+    padding-left: 30px;
+    color: white;
+    font-family: Roboto,HelveticaNeue,Arial,sans-serif;
+    margin-right: 70%;
+    /* font-size: ; */
+}
+
+#log_inputs{
+    background-color: rgb(70 100 165);
+    margin-left: 50%;
+    display: flex;
+    text-align: right;
+    
+}
+
+#main_subsection{
+    width: 50%;
+}
+
+#signup_heading{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+
+#first_line {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-right: -60px;
+}
+
+#second_line{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-right: -60px;
+
+
+}
+#third_line{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-right: -60px;
+
+
+}
+
+#form_input1 input{
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+
+}
+#form_input2{
+    display: block;
+    width: 100px;
+    padding-top: 10px;
+}
+
+#form_input2 input{
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 266px;
+}
+#gender_button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#para1{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: small;
+    width: 80%;
+    text-align: left;
+}
+
+#create{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: green;
+    border-radius: 5px;
+    font-size: x-large;
+    color: white;
+}
+
+#link{
+    padding-top: 40px;
+    padding-bottom: 5px;
+    /* width: 100px; */
+}
+
+#dob p {
+    font-size: small;
+}
+#dob{
+    display: inline;
+}
+#dob h4{
+    padding-top: 30px;
+}
